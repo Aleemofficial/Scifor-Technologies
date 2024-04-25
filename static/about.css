@@ -1,0 +1,28 @@
+.bg-container {
+    background-image: url('https://img.freepik.com/free-photo/notebook-with-camera-coffee-table_23-2148036913.jpg?t=st=1713963689~exp=1713967289~hmac=7317742ab0085cd629f251bd9699f913c5c3dbf1b8c40c00b385e1314cf141b2&w=996');
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+}
+
+
+.portfolio-card {
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.description {
+    font-family: sans-serif;
+    color: gray;
+    font-size: medium;
+    width: 900px;
+}
+.main-headinh {
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+}
+.main-heading {
+    color: aqua;
+}

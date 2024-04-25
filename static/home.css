@@ -1,0 +1,20 @@
+.bg-home-container {
+    background-image: url("https://img.freepik.com/free-photo/top-view-black-frame-with-plant_23-2148643780.jpg?t=st=1714024979~exp=1714028579~hmac=4abda939a90b5495dabd3f531d64c80987aa1034b8f7cdc7009102dc264c23fa&w=1060");
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+}
+
+.home-card {
+    background-color: beige;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15px;
+}
+
+.home-description {
+    font-family: sans-serif;
+    font-size: medium;
+    color: gray;
+    width: 80vw;
+}
